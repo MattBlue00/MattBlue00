@@ -1,3 +1,9 @@
+## ✨ My Top Projects
+
+- 👾 [__Insectathlon__](https://polimi-game-collective.itch.io/insectathlon)
+- 🔬 [__Data Pollution's impact on classification tasks__](https://github.com/MattBlue00/diq-project-2023)
+- 🚺 [__SheRise web application__](https://sherise-teagreen.vercel.app)
+
 ## 👨🏼‍💻 About Me
  
  ```python
